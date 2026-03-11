@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Program Made By Dread_An0n
+# Program Made By Oscar Azrael
 # Co-Written By Friday
 import json
 import os
